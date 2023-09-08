@@ -18,7 +18,7 @@ I am interested in improving the trustworthiness of Machine Learning, specifical
 - *2022.12*: &nbsp;🥇 Won **First prize** in Chinese Mathematics Competitions for College Students (Beijing Division), and qualified for the finals.
 
 # 📝 Publications
-(\*: Equal Contribution; \({}^\dagger\): Corresponding Author)
+(\*: Equal Contribution; #: Corresponding Author)
 
 ## CFA: Class-wise Calibrated Fair Adversarial Training (CVPR 2023)
 **Zeming Wei**, Yifei Wang, Yiwen Guo, Yisen Wang${}^\dagger$
