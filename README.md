@@ -21,28 +21,28 @@ I am interested in improving the trustworthiness of Machine Learning, specifical
 (\*: Equal Contribution; ${}^\dagger$: Corresponding Author)
 
 ## Jailbreak and Guard Aligned Language Models with Only Few In-Context Demonstrations (Preprint)
-**Zeming Wei**, Yifei Wang, Yisen Wang${}^\dagger$
+**Zeming Wei**, Yifei Wang, Yisen Wang ${}^\dagger$
 - Uncover the vulnerability and robustness of aligned language models under only few in-context demonstrations without fine-tuning
 - Propose In-Context Attack (ICA) and In-Context Defense (ICD) to jailbreak and guard aligned language models
 - Shed light on the potential of in-context learning (ICL) to manipulate the alignment of LLMs
 - [[pdf](https://arxiv.org/pdf/2310.06387)] [[arxiv](https://arxiv.org/abs/2310.06387)]
 
 ## CFA: Class-wise Calibrated Fair Adversarial Training (CVPR 2023)
-**Zeming Wei**, Yifei Wang, Yiwen Guo, Yisen Wang${}^\dagger$
+**Zeming Wei**, Yifei Wang, Yiwen Guo, Yisen Wang ${}^\dagger$
 - Theoretically and empirically investigate the preference of different classes for adversarial configurations in Adversarial Training (AT)
 - Propose a CFA framework that customizes specific training configurations for each class automatically
 - CFA improves both overall robustness and fairness, and can be easily incorporated into other AT variants
 - [[pdf](https://openaccess.thecvf.com/content/CVPR2023/papers/Wei_CFA_Class-Wise_Calibrated_Fair_Adversarial_Training_CVPR_2023_paper.pdf)] [[arxiv](https://arxiv.org/abs/2303.14460)] [[code](https://github.com/PKU-ML/CFA)]
 
 ## Sharpness-Aware Minimization Alone can Improve Adversarial Robustness (ICML 2023 Workshop)
-**Zeming Wei\*${}^{\boldsymbol\dagger}$**, Jingyu Zhu\*, Yihao Zhang\*
+**Zeming Wei\* ${}^{\boldsymbol\dagger}$**, Jingyu Zhu\*, Yihao Zhang\*
 - Theoretically show that using Sharpness-Aware Minimization (SAM) can improve adversarial robustness
 - Empirically illustrate that SAM can improve robustness with a friendly computational cost and no decrease in natural accuracy
 - Propose that SAM can be regarded as a lightweight substitute for AT under certain requirements
 - [[pdf](https://arxiv.org/pdf/2305.05392)] [[arxiv](https://arxiv.org/abs/2305.05392)] [[code](https://github.com/weizeming/SAM_AT)]
 
 ## Weighted Automata Extraction and Explanation of Recurrent Neural Networks for Natural Language Tasks (Journal of Logical and Algebraic Methods in Programming)
-**Zeming Wei**, Xiyue Zhang, Yihao Zhang, Meng Sun${}^\dagger$
+**Zeming Wei**, Xiyue Zhang, Yihao Zhang, Meng Sun ${}^\dagger$
 - Extending WFA extraction methods of RNNs from formal to natural language tasks by identifying transition sparsity and context dependency problems
 - Propose an RNN interpretation framework with a transition-based word embedding of the extracted automata  
 - Further propose two applications (pretraining and adversarial attack) on RNNs with the embedding
@@ -81,5 +81,4 @@ Yisen Wang and **Zeming Wei**
 (Alphabetical Order)
 - 👨‍🏫 **Advisors**: [Meng Sun](https://www.math.pku.edu.cn/teachers/sunm/indexen.html), [Yisen Wang](https://yisenwang.github.io)
 - 🧑‍🎓 **Co-authors**: [Yifei Wang](https://yifeiwang.me), [Xiyue Zhang](https://zhang-xiyue.github.io/), [Yihao Zhang](https://zhang-yihao.github.io/)
-, [Yihao Zhang](https://zhang-yihao.github.io/)
 
