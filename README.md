@@ -16,19 +16,19 @@
 (\*: Equal Contribution; ${}^\dagger$: Corresponding Author)
 
 ## Jailbreak and Guard Aligned Language Models with Only Few In-Context Demonstrations (Preprint)
-**Zeming Wei**, Yifei Wang, Yisen Wang${}^\dagger$
+**Zeming Wei**, Yifei Wang, Yisen Wang ${}^\dagger$
 - [[pdf](https://arxiv.org/pdf/2310.06387)] [[arxiv](https://arxiv.org/abs/2310.06387)]
 
 ## CFA: Class-wise Calibrated Fair Adversarial Training (CVPR 2023)
-**Zeming Wei**, Yifei Wang, Yiwen Guo, Yisen Wang${}^\dagger$
+**Zeming Wei**, Yifei Wang, Yiwen Guo, Yisen Wang ${}^\dagger$
 - [[pdf](https://openaccess.thecvf.com/content/CVPR2023/papers/Wei_CFA_Class-Wise_Calibrated_Fair_Adversarial_Training_CVPR_2023_paper.pdf)] [[arxiv](https://arxiv.org/abs/2303.14460)] [[code](https://github.com/PKU-ML/CFA)]
 
 ## Sharpness-Aware Minimization Alone can Improve Adversarial Robustness (ICML 2023 Workshop)
-**Zeming Wei\*${}^{\boldsymbol\dagger}$**, Jingyu Zhu\*, Yihao Zhang\*
+**Zeming Wei\* ${}^{\boldsymbol\dagger}$**, Jingyu Zhu\*, Yihao Zhang\*
 - [[pdf](https://arxiv.org/pdf/2305.05392)] [[arxiv](https://arxiv.org/abs/2305.05392)] [[code](https://github.com/weizeming/SAM_AT)]
 
 ## Weighted Automata Extraction and Explanation of Recurrent Neural Networks for Natural Language Tasks (Journal of Logical and Algebraic Methods in Programming)
-**Zeming Wei**, Xiyue Zhang, Yihao Zhang, Meng Sun${}^\dagger$
+**Zeming Wei**, Xiyue Zhang, Yihao Zhang, Meng Sun ${}^\dagger$
 - [[pdf](https://arxiv.org/pdf/2306.14040)] [[arxiv](https://arxiv.org/abs/2306.14040)] [[code](https://github.com/weizeming/Extract_WFA_from_RNN_for_NL)]
 
 
